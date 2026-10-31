@@ -13,6 +13,9 @@ Arquivo **.mcp.json**:
 	}
 }
 ```
+
+Testes com **Agents window** no **Visual Studio Code** (**Menu View > Command Palette... > Chat: Open Agents Windows**):
+
 Para os testes deste MCP Server foi utilizada a versão 0.7.0: **https://github.com/grafana/mcp-k6/releases/tag/v0.7.0**
 
 Comandos para instalação em um ambiente Ubuntu:
